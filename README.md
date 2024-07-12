@@ -1,1 +1,1 @@
-https://go.dev/doc/tutorial/create-module
+https://go.dev/doc/tutorial/call-module-code
